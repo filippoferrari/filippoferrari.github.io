@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://filippoferrari.github.io/al-folio/sitemap.xml
+Sitemap: https://filippoferrari.github.io/sitemap.xml
