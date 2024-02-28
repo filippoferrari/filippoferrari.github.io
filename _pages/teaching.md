@@ -1,12 +1,15 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description:
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+### University of Edinburgh
+- Co-supervision of BSc and MSc projects (with Peggy Seriès).
+- Computational Cognitive Neuroscience (MSc Level, 2020-2023)
+  - Marker and coursework design.
+- Foundations of Data Science (BSc Level, 2020-2024): 
+  - Tutor and Marker.

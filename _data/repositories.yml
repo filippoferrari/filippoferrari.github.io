@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - filippoferrari
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - filippoferrari/RLAC
+  - filippoferrari/CX_Path_Integration
+  - filippoferrari/shape_detector_snn
