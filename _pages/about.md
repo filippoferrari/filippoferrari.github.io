@@ -8,10 +8,11 @@ profile:
   align: right
   image: headshot.jpg
   image_circular: true # crops the image to make it circular
-  # more_info: >
-  #   <p>School of Informatics</p>
-  #   <p>University of Edinburgh</p>
-  #   <p>Edinburgh, UK</p>
+  more_info: >
+    <p>Looking for full-time</p> 
+    <p>opportunities from</p>
+    <p>July 2024!</p>
+
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
